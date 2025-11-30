@@ -16,13 +16,16 @@ MongoDB
 JWT Authentication 
 
 📁 Project Structure
+
 /frontend
+
     - React components
     - Pages
     - Styles
     - API calls
 
 /backend
+
     - Controllers
     - Models
     - Routes
@@ -46,6 +49,7 @@ PORT=5000
 JWT_SECRET=your_secret_key
 
 ▶️ How to Run the Project Locally
+
 Backend
 cd backend
 npm install
